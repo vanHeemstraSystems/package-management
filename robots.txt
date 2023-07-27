@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/customer-relationship-management/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/package-management/sitemap.xml
