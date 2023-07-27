@@ -26,5 +26,5 @@ Run as follows:
 
 ```
 $ cd containers/app
-$ docker-compose --file docker-compose.dev.yml --project-name customer-relationship-management-dev up --build -d
+$ docker-compose --file docker-compose.dev.yml --project-name package-management-dev up --build -d
 ```
