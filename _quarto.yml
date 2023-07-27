@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Customer Relationship Management"
+  title: "Package Management"
   navbar:
     left:
       - href: index.qmd
