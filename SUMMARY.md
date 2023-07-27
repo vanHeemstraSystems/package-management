@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Customer Relationship - Management](README.md)
+* [Package Management](README.md)
